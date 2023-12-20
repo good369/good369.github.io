@@ -131,7 +131,6 @@ html {
 
 /* 悬停图片时的鼠标指针 */
 img {
-
 	cursor: url('./mouse/all-scroll.cur'), auto;
 }
 
@@ -155,4 +154,4 @@ input:hover {
 #pagination {
 	width: 100%;
 	margin: auto;
-  }
+}
