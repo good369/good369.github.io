@@ -49,8 +49,6 @@
 	padding: 10px 30px
 }
 
-
-
 #nav-right{
 	flex:1 1 auto;
 	justify-content: flex-end;
@@ -67,6 +65,7 @@
     -o-transform: translateY(58px)!important;
 }
 #nav{
+	padding: 0 20px;
     transition: none!important;
     -webkit-transition: none!important;
     -moz-transition: none!important;
